@@ -1,6 +1,9 @@
-# AirflowEbookComparePrice
+## AirflowEbookComparePrice
 Project for application in Data engineer of BJC<br />
 <br />
+
+#This project is compare about E-Book price between NAI-IN website and MEB by using Airflow.<br />
+#for ETL pipeline installed in AWS EC2 and use POSTGRESS RDB and AWS S3 for storage of this project.<br />
 
 1.Airflow.py >> main airflow schedule<br />
 2.AirflowDagScheduler.jpg >> JPG picture of Airflow DAGs<br />
